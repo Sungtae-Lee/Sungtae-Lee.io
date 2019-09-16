@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sungtae Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Medical student learning RL/Neuroscience."
+  bio              : "Medical student \\ RL/Neuroscience."
   location         : "Seoul, Republic of Korea"
   email            : "stl950116@yonsei.ac.kr"
   links:

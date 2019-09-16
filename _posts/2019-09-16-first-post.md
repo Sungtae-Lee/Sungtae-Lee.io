@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Start of My Homepage"
 date: 2019-09-16 08:26:28 -0400
-categories: jekyll update
+categories: jekyll start
 ---
 
 You’ll find this post in your `_posts` directory. 

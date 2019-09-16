@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Yonsei Medical School", "RL/Neuroscience."
   location         : "Seoul, Republic of Korea"
-  email            : "stl950116@yonsei.ac.kr"
+  #email            : "stl950116@yonsei.ac.kr"
   links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"

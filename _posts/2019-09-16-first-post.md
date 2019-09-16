@@ -1,6 +1,7 @@
 ---
 title: "Start of My Homepage"
 date: 2019-09-16 08:26:28 -0400
+comments: true
 categories: jekyll start
 ---
 
@@ -30,5 +31,3 @@ you can ask them on [Jekyll Talk][jekyll-talk].
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
-comments: true

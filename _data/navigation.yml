@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://sungtae-lee.github.io
   - title: "Paper Summaries"
-    url: /year-archive/
+    url: /paper-summaries/
   - title: "RL/DL Study"
-    url: /collection-archive/
+    url: /rl_dl study/
   - title: "Math/Informatics Study"
-    url: /sitemap/
+    url: /math_informatics study/
   - title: "Neuroscience Study"
-    url: /sitemap/
+    url: /neuroscience study/
